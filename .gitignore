@@ -1,0 +1,78 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+
+# Debug
+.vscode/
+.idea/
+
+# MongoDB data dumps
+dump/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# PM2 process logs
+pids/
+*.pm2.log
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# Logs from nodemailer or custom mail logs
+mail.log
+
+# Backup files
+*.bak
+*.old
+
+# Mac/Linux swap files
+*.swp
+
+# Windows image thumbs
+ehthumbs.db
+
+# Serverless offline logs
+.serverless
+
+# Next.js (if used in monorepo)
+.next/
+
+# Parcel cache
+.cache/
+.parcel-cache/
